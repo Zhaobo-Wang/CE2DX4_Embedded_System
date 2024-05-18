@@ -1,8 +1,6 @@
 # Microprocessor Lidar System for 3D Visualization | Python
 # 微处理器激光雷达系统用于3D可视化 | Python
 
-**Spring 2022**
-
 ## Project Overview
 
 - **Objective:**
@@ -34,8 +32,6 @@
 - Successfully enabled 3D visualization of point cloud data from Lidar measurements.
 
 ---
-
-**2022年春季**
 
 ## 项目概述
 
